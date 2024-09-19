@@ -1,0 +1,16 @@
+SEMANA 3
+1) a. A Lei Geral de Proteção de Dados impacta de maneira significativa o funcionamento dos centros de dados no território nacional. Ela determina regras rigorosas sobre a forma de coleta, manipulação, armazenamento e exclusão de informações pessoais, exigindo que os data centers estejam alinhados com tais regulamentos para assegurar a segurança dos dados de pessoas físicas e jurídicas.
+Para estar em conformidade com a LGPD, é necessário garantir a segurança dos dados pessoais contra acessos indevidos, falhas de segurança e divulgações não autorizadas. Os centros de dados devem adotar medidas de proteção sólidas, a fim de assegurar a confidencialidade e disponibilidade das informações.
+Resumidamente, os centros de processamento de dados desempenham um papel crucial no atendimento aos requisitos da LGPD, e a interação entre eles é essencial para garantir que a infraestrutura de armazenamento e processamento de informações seja segura e que esteja em conformidade com as regulamentações legais de privacidade de dados.
+
+b. Exemplos de Formatos Proprietários:
+mdb (Microsoft Access Database)
+accdb (Microsoft Access Database - formato mais recente)
+docx (Microsoft Word)
+pptx(Microsoft PowerPoint)
+
+Exemplos de Formatos Abertos:*
+json (JavaScript Object Notation)
+pdf (Portable Document Format, originalmente da Adobe, mas agora um padrão ISO)
+txt (Texto simples)
+html (HyperText Markup Language)
