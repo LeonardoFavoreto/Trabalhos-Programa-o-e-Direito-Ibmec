@@ -1,0 +1,25 @@
+SEMANA 4 
+Javascript, Python e C são as linguagens mais populares.
+a. Código mínimo
+Javascript - console.log(“Hello, World”)
+Python - print(“Hello, World!”)
+C- printf(“Hello, World!/n”)
+
+b. Código de execução
+Javascript - node script.js
+Python - python script.py
+C - gcc -o hello hello.c
+./hello 
+
+SEMANA 5
+a. Estrutura de repetição
+for i in range(1, 6):
+print(f"Número {i}")
+
+b. Tomada de decisão
+if numero > 0:
+print("O número é positivo.")
+elif numero < 0:
+print("O número é negativo.")
+else:
+ print("O número é zero.")
